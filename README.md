@@ -1,9 +1,13 @@
 Matthew Krupczak
+
 Creator of OpenAthena Software
+
 Founder of Theta Informatics LLC
+
 18th March, 2024
 
 Recommendation Letter (from LinkedIn profile)
+
 
 Brendan and I met through KSU's Electric Vehicle Team where undergraduate students
 build, program and race fully autonomous electric go-karts in competition with other colleges.
